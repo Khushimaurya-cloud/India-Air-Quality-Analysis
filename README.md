@@ -69,3 +69,15 @@ The goal is to understand air pollution patterns, compare AQI levels across citi
 
 ## Note
 This project is for educational and analytical purposes. Dataset source and AQI calculation methodology should be verified before using the results for official reporting.
+
+
+## Dashboard Screenshots
+
+### 1. Dashboard Overview
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
+### 2. AQI Analysis
+![AQI Analysis](screenshots/aqi_analysis.png)
+
+### 3. Pollutant Analysis
+![Pollutant Analysis](screenshots/pollutant_analysis.png)

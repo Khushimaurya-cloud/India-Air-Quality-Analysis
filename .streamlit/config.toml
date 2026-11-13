@@ -1,0 +1,7 @@
+
+[theme]
+primaryColor = "#800080"
+backgroundColor = "#F5F0FA"
+secondaryBackgroundColor = "#EDE5F5"
+textColor = "#333333"
+chartCategoricalColors = ["#800080", "#9B59B6", "#C39BD3", "#D7BDE2", "#6C3483"]
