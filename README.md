@@ -74,7 +74,7 @@ This project is for educational and analytical purposes. Dataset source and AQI 
 ## Dashboard Screenshots
 
 ### 1. Dashboard Overview
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](screenshots/dashboardoverview.png)
 
 ### 2. AQI Analysis
 ![AQI Analysis](screenshots/aqi_analysis.png)
